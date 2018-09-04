@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "data usage with mongodb demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusiqe/mongodemo.git"
+  },
+  "keywords": [
+    "mongo",
+    "node",
+    "data",
+    "demo"
+  ],
+  "author": "taurai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusiqe/mongodemo/issues"
+  },
+  "homepage": "https://github.com/rusiqe/mongodemo#readme"
+}
